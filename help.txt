@@ -1,18 +1,18 @@
-Usage: [options] [args....]
+Usage: -[options] [args....]
 	(to create, modify tasks)
-	[options]
+	-[options]
 	(to list tasks based on contrains)
 
 Where options include:
-	add name <task name>  to create new tasks with name and description(optional)
-	update, to update tasks' name and/or description
-	delete, to delete task
-	help, to view help text
-	exit, to exit CLI
-	mark-done , to mark task as done
-	list-done , to mark list as done
-	list-in-progress, to mark task as in progress
-	list-incomplete, to mark list as incomplete
+	-add name <task name>  to create new tasks with name and description(optional)
+	-update, to update tasks' name and/or description
+	-delete, to delete task
+	-help, to view help text
+	-exit, to exit CLI
+	-mark-done , to mark task as done
+	-list-done , to view tasks that are done
+	-list-in-progress, to tasks in progress
+	-list-incomplete, to tasks incomplete
 
-Hello!
+
 
